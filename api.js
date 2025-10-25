@@ -1,16 +1,3 @@
-https://discord.com/api/webhooks/1427363261002551430/VbEJbYa_aqZwA2k6wvqRVLfNqULfTQfprJRMZVMHneBk875FA432yfBiZ9Bz_1Z3nwBO"; // Replace with your webhook URL
-
-async function sendGeoEmbed() {
-  try {
-    	
-
-
-
-
-
-
-
-
 const puppeteer = require('puppeteer');
 
 const WEBHOOK = "";
